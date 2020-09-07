@@ -1,7 +1,9 @@
-### Welcome Aboard!🤩👋
-![Image Sassy](https://github.com/Sakshi-25/Sakshi-25/blob/master/image2.png)
+# Welcome Aboard!🤩👋
+<p align="center">
+  <img src="https://github.com/Sakshi-25/Sakshi-25/blob/master/image2.png" width="70%">
+ </p>
+ 
 ## ✨ I'm a Junior @IGDTUW. A Web Developer
-
 - 🌱 I’m currently learning DS & Algorithms in C++.
 - 🔐 I’m currently working on Cyber Security Projects🌐
 - 🤔 I’m looking for help with latest Web Technologies. Tech is so fast pacing!!😵🤪
@@ -26,10 +28,8 @@
 - [Need Of Women In Tech : Women Tech Net Global Conference 2020](https://wrytin.com/sakshijangra/need-of-women-in-tech-women-tech-net-global-conference-2020-kaqkq5vo)
 - [Insight On Girl Script Summer Of Code](https://wrytin.com/sakshijangra/insight-of-girl-script-summer-of-code-k6ay1r6j)
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Sakshi-25's Github Stats" src="https://github-readme-stats.sakshi-25.vercel.app/api?username=Sakshi-25&show_icons=true&hide_border=true" />
-</details>
+### Work/Projects:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-25&count_private=true&show_icons=true&theme=radical&layout=compact)]() [![Github Stats](https://github-readme-stats.sakshi-25.vercel.app/api?username=Sakshi-25&show_icons=true&include_all_commits=true&theme=radical)]()
 
 
 [twitter]: https://twitter.com/Sakshi2517
