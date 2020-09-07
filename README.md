@@ -1,5 +1,5 @@
 ### Welcome Aboard!🤩👋
-![Image Sassy](https://github.com/Sakshi-25/Sakshi-25/blob/master/image.png)
+![Image Sassy](https://github.com/Sakshi-25/Sakshi-25/blob/master/image2.png)
 ## ✨ I'm a Junior @IGDTUW. A Web Developer
 
 - 🌱 I’m currently learning DS & Algorithms in C++.
