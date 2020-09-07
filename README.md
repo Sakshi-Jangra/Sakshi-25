@@ -1,8 +1,9 @@
-<!-- # Welcome Aboard , Sakshi here!🤩👋 -->
+### Welcome Aboard!🤩👋
 
-![Image of Yaktocat](https://github.com/Sakshi-25/Sakshi-25/blob/master/readmeLogo.png)
+<!--[Image Sassy](https://github.com/Sakshi-25/Sakshi-25/blob/master/readmeLogo.png)-->
+![Image Sassy](https://github.com/Sakshi-25/Sakshi-25/blob/master/2sassy%20%26%20savvy.png)
 
-## I'm a Junior @IGDTUW. A Web Developer✨
+## ✨ I'm a Junior @IGDTUW. A Web Developer
 
 - 🌱 I’m currently learning DS & Algorithms in C++.
 - 🔐 I’m currently working on Cyber Security Projects🌐
