@@ -1,4 +1,4 @@
-### Welcome Aboard , Sakshi here!🤩👋
+# Welcome Aboard , Sakshi here!🤩👋
 
 ## I'm a Junior @IGDTUW. A Web Developer✨
 
@@ -8,7 +8,7 @@
 - 👩‍💻 Goals: Learn new skills in Web Dev.
 - 🎨 Hobbies: I love to Dance. Video Editing and Poster making.
 
-# 💼 Position of Responsibilities:
+## 💼 Position of Responsibilities:
 - DSC Project Coordinator for CyberSecurity
 - Core at GirlScript Unnao
 
