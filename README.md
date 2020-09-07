@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Sakshi-25's Github Stats" src="https://https://github-readme-stats.sakshi-25.vercel.app/api?username=Sakshi-25&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sakshi-25's Github Stats" src="https://github-readme-stats.sakshi-25.vercel.app/api?username=Sakshi-25&show_icons=true&hide_border=true" />
 
 </details>
 
