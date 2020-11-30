@@ -15,16 +15,13 @@
 - Core at GirlScript Unnao
 - Core at Media, Taarangana2021
 
-### Connect with me:<img src="https://media.giphy.com/media/3o72EUVzqzm8V1P9qU/giphy.gif" width="50">
+### Connect with me:<img src="https://media.giphy.com/media/3o72EUVzqzm8V1P9qU/giphy.gif" width="30">
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://wrytin.com/static/img/logo/512.png" />][wrytin]
 <a href="https://dev.to/sakshi25">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="SAKSHI's DEV Profile" height="30" width="30">
-</a>
-
-<br />
-
+</a><br />
 ### Languages and Tools:
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> 
 ---
