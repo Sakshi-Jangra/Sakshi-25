@@ -1,6 +1,6 @@
 # Welcome Aboard!🤩👋
 <p align="center">
-  <img src="https://github.com/Sakshi-25/Sakshi-25/blob/master/image2.png" width="70%">
+  <img src="https://github.com/Sakshi-25/Sakshi-25/blob/master/image2.png" width="60%">
  </p>
  
 ## ✨ I'm a Junior @IGDTUW. A Web Developer
