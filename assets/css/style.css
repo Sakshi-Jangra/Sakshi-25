@@ -36,7 +36,7 @@ h2 {
 
 .maine-menu {
   position: fixed;
-  top: 1.5%; 
+  top: 0; 
   text-align: center;
 }
 
@@ -47,7 +47,7 @@ h2 {
   padding: 15px 25px;
   color: #fff; }
 .maine-menu .navbar-nav li.active a, .maine-menu .navbar-nav li:hover a, .maine-menu .navbar-nav li:visited a {
-  color: #e90e65; }
+  color: #000000; }
 .maine-menu .bar1, .maine-menu .bar2, .maine-menu .bar3 {
   width: 25px;
   height: 2px;
@@ -85,33 +85,60 @@ h2 {
 
 .fh5co-home-banner {
   padding: 0; }
-  .fh5co-home-banner .card {
-    border: none; }
-  .fh5co-home-banner h2 {
-    font-size: 30px;
-    color: #fff;
-    text-transform: uppercase;
-    max-width: fit-content;
-    margin: 0 auto; }
-  .fh5co-home-banner a {
-    text-transform: uppercase;
-    color: #fff;
-    width: 198px;
-    border-radius: 40px;
-    margin-top: 15%;
-    padding: 13px 0; }
-    .fh5co-home-banner a svg {
-      position: absolute;
-      left: 0;
-      right: 0;
-      margin: 0 auto;
-      margin-top: -13px; 
-      margin-left: 20%;
-    }
-  .fh5co-home-banner .center-text {
-    text-align: center;
-    position: relative;
-    top: 35%; }
+.fh5co-home-banner .card{
+  border: none; 
+}
+.fh5co-home-banner h2 {
+  font-size: 45px;
+  text-transform: uppercase;
+  max-width: 100%;
+  margin-top: -35%;
+  padding-left: 20%;
+  padding-right: 15%;
+}
+.gradient-text{
+  background: linear-gradient(to right, rgb(219, 170, 7), crimson,pink,springgreen);
+  animation: rainbow 2s ease-in-out infinite;
+  background-clip: text;
+  -webkit-background-clip:text;
+  color:rgb(255, 255, 255);
+  transition: color .2s ease-in-out;
+  text-transform:uppercase;
+}
+.gradient-text:hover{
+  color:rgba(0,0,0,0);
+}
+@keyframes rainbow { 
+  0%{background-position:left}
+  50%{background-position:right}
+  100%{background-position:left}
+}
+
+#navbar-bg{
+  background: linear-gradient(to right, springgreen,#dd6f7a, #ba3aad);
+  margin-top: -1%;
+}
+
+#navbar-bg:hover {
+  background: linear-gradient(to right, crimson,pink,springgreen);
+}
+
+.fh5co-home-banner a {
+  text-transform: uppercase;
+  color: #fff;
+  width: fit-content;
+  border-radius: 40px;
+  background:linear-gradient(to left, #743ad5, #d53a9d);
+  margin-top: 0%;
+  padding: 13px 25px; 
+}
+.fh5co-home-banner .center-text {
+  text-align: center;
+  position: relative;
+  }
+  .fh5co-home-banner .card-img img{
+      /* width: 50%; */
+  }
   .fh5co-home-banner .card-img-overlay {
     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
     background: -moz-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
@@ -120,16 +147,18 @@ h2 {
   @media (max-width: 991px) {
     .fh5co-home-banner h2 {
       font-size: 30px;
-      max-width: 460px; }
+      max-width: 90%;
+      padding-left: 20%;
+    }
     .fh5co-home-banner .center-text {
       top: 30%; } }
   @media (max-width: 700px) {
     .fh5co-home-banner a {
       width: 140px;
       padding: 4px 0; 
-      margin-top: 50%;
-      padding: 13px 0;
-      margin-left: 18%; 
+      margin-top: -2%;
+      padding: inherit;
+      margin-left: inherit; 
     }
       .fh5co-home-banner a svg {
         height: 35px;
@@ -137,10 +166,12 @@ h2 {
         width: 140px; } }
   @media (max-width: 600px) {
     .fh5co-home-banner a {
-      margin-top: 20px; }
+      margin-top: inherit; }
     .fh5co-home-banner h2 {
-      font-size: 18px;
-      max-width: 260px; }
+      font-size: 32px;
+      max-width: 90%;
+    padding-left: 20%;
+    }
     .fh5co-home-banner .center-text {
       top: 30%; } }
 
@@ -582,7 +613,8 @@ h2 {
     color: #fff;
     margin: 7% auto; }
   .fh5co-about-me .card-img {
-    min-height: 730px; }
+    min-height: 730px; 
+  }
   .fh5co-about-me .carousel-indicators {
     bottom: 100px; }
     .fh5co-about-me .carousel-indicators li {
@@ -628,8 +660,10 @@ h2 {
     .fh5co-about-me .card-img {
       position: relative;
       width: 150% !important;
-      margin-left: -25%;
-      margin-right: -25%; } }
+
+      /* margin-left: -25%;
+      margin-right: -25%; */
+     } 
   @media (max-width: 720px) {
     .fh5co-about-me h2 {
       margin: 20px auto; }
@@ -814,12 +848,10 @@ footer {
   padding: 70px;
   border-radius: 15px; }
   .blog-content-inner .card-title {
-    margin-bottom: 70px;
     font-size: 45px;
     text-align: center; }
     @media (max-width: 992px) {
       .blog-content-inner .card-title {
-        margin-bottom: 40px;
         font-size: 30px; } }
     @media (max-width: 600px) {
       .blog-content-inner .card-title {

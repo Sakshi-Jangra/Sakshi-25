@@ -1,0 +1,16 @@
+<svg width="201" height="51" viewBox="0 0 201 51">
+    <defs>
+    <style>
+    .cls-1 {
+        fill: none;
+        stroke-width: 1px;
+        stroke: url(#linear-gradient);
+    }
+    </style>
+    <linearGradient id="linear-gradient" x1="140.508" y1="50.5" x2="60.492" y2="0.5" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#e90e65"/>
+    <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+</defs>
+<rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" x="0.5" y="0.5" width="200" height="50" rx="25" ry="25"/>
+</svg>
