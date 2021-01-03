@@ -216,6 +216,7 @@ h2 {
       font-size: 18px;
       font-family: "PT-Sans-Regular"; }
     .contact-pop .content p {
+      font-size: 20px;
       color: #584f53; }
     .contact-pop .content hr {
       background-color: #e90e65;
@@ -479,7 +480,7 @@ h2 {
       margin-bottom: 5px; }
     .recent .card p {
       font-size: 14px;
-      color: #e90e65; }
+      color: #520021; }
     .recent .card.active, .recent .card:hover {
       transform: scale(1.05, 1.1);
       -webkit-transform: scale(1.05, 1.1);
@@ -487,10 +488,10 @@ h2 {
       -moz-transform: scale(1.05, 1.1);
       box-shadow: 0px 20px 32px 0px rgba(0, 0, 0, 0.25); }
       .recent .card.active .card-img-overlay, .recent .card:hover .card-img-overlay {
-        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95));
-        background: -moz-linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95));
-        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95));
-        background: -ms-linear-gradient(rgba(0, 0, 0, 0.3), rgba(233, 14, 101, 0.95)); }
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(51, 0, 20, 0.95));
+        background: -moz-linear-gradient(rgba(0, 0, 0, 0.3), rgba(18, 0, 61, 0.95));
+        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(78, 0, 31, 0.95));
+        background: -ms-linear-gradient(rgba(0, 0, 0, 0.3), rgba(17, 0, 71, 0.95)); }
       .recent .card.active p, .recent .card:hover p {
         color: #e587ac; }
   .recent .card-img-overlay {
