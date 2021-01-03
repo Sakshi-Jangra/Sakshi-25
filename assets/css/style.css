@@ -1,7 +1,12 @@
+/*
+ * Girly by FreeHTML5.co
+ * Twitter: https://twitter.com/fh5co
+ * Facebook: https://fb.com/fh5co
+ * URL: https://freehtml5.co
+ */
 * {
   margin: 0;
-  padding: 0; 
-}
+  padding: 0; }
 
 /* Colors */
 /* fonts variable */
@@ -83,36 +88,36 @@ h2 {
 
 .fh5co-home-banner {
   padding: 0; }
-.fh5co-home-banner .card {
-  border: none; }
-.fh5co-home-banner h2 {
-  font-size: 52px;
-  color: #fff;
-  text-transform: uppercase;
-  max-width: 730px;
-  margin: 0 auto; }
-.fh5co-home-banner a {
-  text-transform: uppercase;
-  color: #fff;
-  width: 198px;
-  border-radius: 40px;
-  margin-top: 50px;
-  padding: 13px 0; }
-  .fh5co-home-banner a svg {
-    position: absolute;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
-    margin-top: -13px; }
-.fh5co-home-banner .center-text {
-  text-align: center;
-  position: relative;
-  top: 35%; }
-.fh5co-home-banner .card-img-overlay {
-  /* background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
-  background: -moz-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
-  background: -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
-  background: -linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black); } */
+  .fh5co-home-banner .card {
+    border: none; }
+  .fh5co-home-banner h2 {
+    font-size: 52px;
+    color: #fff;
+    text-transform: uppercase;
+    max-width: 730px;
+    margin: 0 auto; }
+  .fh5co-home-banner a {
+    text-transform: uppercase;
+    color: #fff;
+    width: 198px;
+    border-radius: 40px;
+    margin-top: 50px;
+    padding: 13px 0; }
+    .fh5co-home-banner a svg {
+      position: absolute;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+      margin-top: -13px; }
+  .fh5co-home-banner .center-text {
+    text-align: center;
+    position: relative;
+    top: 35%; }
+  .fh5co-home-banner .card-img-overlay {
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
+    background: -moz-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
+    background: -o-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black);
+    background: -linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black); }
   @media (max-width: 991px) {
     .fh5co-home-banner h2 {
       font-size: 30px;

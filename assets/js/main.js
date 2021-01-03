@@ -77,6 +77,6 @@ jQuery(document).ready(function(){
 
 });
 
-function cross(x) {
+function myFunction(x) {
   x.classList.toggle("change");
 }
