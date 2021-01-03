@@ -42,42 +42,44 @@ h2 {
 
 .maine-menu {
   position: absolute;
-  top: 20px; }
-  .maine-menu .navbar-nav li .nav-link {
-    font-family: "PT-Sans-Bold";
-    font-size: 20px;
-    text-transform: uppercase;
-    padding: 15px 25px;
-    color: #fff; }
-  .maine-menu .navbar-nav li.active a, .maine-menu .navbar-nav li:hover a, .maine-menu .navbar-nav li:visited a {
-    color: #e90e65; }
-  .maine-menu .bar1, .maine-menu .bar2, .maine-menu .bar3 {
-    width: 25px;
-    height: 2px;
-    background-color: #fff;
-    margin: 5px 0;
-    transition: 0.4s;
-    display: block;
-    position: relative; }
-  .maine-menu .change .bar1 {
-    -webkit-transform: rotate(-42deg) translate(-2px, 6px);
-    transform: rotate(-42deg) translate(-2px, 6px); }
-  .maine-menu .change .bar2 {
-    opacity: 0; }
-  .maine-menu .change .bar3 {
-    -webkit-transform: rotate(46deg) translate(-4px, -8px);
-    transform: rotate(46deg) translate(-4px, -8px); }
-  @media (max-width: 991px) {
-    .maine-menu .navbar-nav {
-      float: right; }
-      .maine-menu .navbar-nav li .nav-link {
-        font-family: "PT-Sans-Bold";
-        font-size: 16px;
-        text-transform: uppercase;
-        padding: 7px 10px;
-        color: #fff; }
-    .maine-menu .collapse.show {
-      background: rgba(0, 0, 0, 0.5); } }
+  top: 20px; 
+}
+
+.maine-menu .navbar-nav li .nav-link {
+  font-family: "PT-Sans-Bold";
+  font-size: 20px;
+  text-transform: uppercase;
+  padding: 15px 25px;
+  color: #fff; }
+.maine-menu .navbar-nav li.active a, .maine-menu .navbar-nav li:hover a, .maine-menu .navbar-nav li:visited a {
+  color: #e90e65; }
+.maine-menu .bar1, .maine-menu .bar2, .maine-menu .bar3 {
+  width: 25px;
+  height: 2px;
+  background-color: #fff;
+  margin: 5px 0;
+  transition: 0.4s;
+  display: block;
+  position: relative; }
+.maine-menu .change .bar1 {
+  -webkit-transform: rotate(-42deg) translate(-2px, 6px);
+  transform: rotate(-42deg) translate(-2px, 6px); }
+.maine-menu .change .bar2 {
+  opacity: 0; }
+.maine-menu .change .bar3 {
+  -webkit-transform: rotate(46deg) translate(-4px, -8px);
+  transform: rotate(46deg) translate(-4px, -8px); }
+@media (max-width: 991px) {
+  .maine-menu .navbar-nav {
+    float: right; }
+    .maine-menu .navbar-nav li .nav-link {
+      font-family: "PT-Sans-Bold";
+      font-size: 16px;
+      text-transform: uppercase;
+      padding: 7px 10px;
+      color: #fff; }
+  .maine-menu .collapse.show {
+    background: rgba(0, 0, 0, 0.5); } }
 
 .card {
   border: none;
@@ -108,7 +110,9 @@ h2 {
       left: 0;
       right: 0;
       margin: 0 auto;
-      margin-top: -13px; }
+      margin-top: -13px; 
+      margin-left: 20%;
+    }
   .fh5co-home-banner .center-text {
     text-align: center;
     position: relative;
