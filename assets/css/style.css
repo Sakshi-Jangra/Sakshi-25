@@ -47,7 +47,7 @@ h2 {
   padding: 15px 25px;
   color: #fff; }
 .maine-menu .navbar-nav li.active a, .maine-menu .navbar-nav li:hover a, .maine-menu .navbar-nav li:visited a {
-  color: #000000; }
+  color:#ffb900; }
 .maine-menu .bar1, .maine-menu .bar2, .maine-menu .bar3 {
   width: 25px;
   height: 2px;
@@ -104,6 +104,7 @@ h2 {
   color:rgb(255, 255, 255);
   transition: color .2s ease-in-out;
   text-transform:uppercase;
+  background-size: 200% 200%;
 }
 .gradient-text:hover{
   color:rgba(0,0,0,0);
@@ -115,13 +116,15 @@ h2 {
 }
 
 #navbar-bg{
-  background: linear-gradient(to right, springgreen,#dd6f7a, #ba3aad);
-  transition: color .2s ease-in-out;
+  background: linear-gradient(to right, rgb(139, 132, 163), rgb(107, 22, 114) ,  rgb(114, 0, 15));
+  transition: color 5s ease-in-out;
+  animation: rainbow 2s ease-in-out infinite;
+  background-size: 200% 200%;
   margin-top: -1%;
 }
 
 #navbar-bg:hover {
-  background: linear-gradient(to right, crimson,pink,springgreen);
+  background: linear-gradient(to right,#dc6c76, rgb(90, 47, 148),rgb(5, 0, 68));
   animation: rainbow 2s ease-in-out infinite;
   transition: color .2s ease-in-out;
 }
