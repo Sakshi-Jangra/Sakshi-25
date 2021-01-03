@@ -116,11 +116,14 @@ h2 {
 
 #navbar-bg{
   background: linear-gradient(to right, springgreen,#dd6f7a, #ba3aad);
+  transition: color .2s ease-in-out;
   margin-top: -1%;
 }
 
 #navbar-bg:hover {
   background: linear-gradient(to right, crimson,pink,springgreen);
+  animation: rainbow 2s ease-in-out infinite;
+  transition: color .2s ease-in-out;
 }
 
 .fh5co-home-banner a {
@@ -421,7 +424,7 @@ h2 {
   width: 100%; }
 
 .fh5co-recent-work {
-  background: #e90e65;
+  background: #3c3c3c;
   padding: 100px 0; }
   @media (max-width: 767px) {
     .fh5co-recent-work {
