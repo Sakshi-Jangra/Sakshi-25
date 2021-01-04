@@ -473,7 +473,6 @@ h2 {
     -moz-transition: all 0.3s; }
     .recent .card .card-img {
       border-radius: 15px; 
-    
     }
     .recent .card h5 {
       font-size: 20px;
@@ -481,7 +480,7 @@ h2 {
       margin-bottom: 5px; }
     .recent .card p {
       font-size: 14px;
-      color: #520021; }
+      color: #a95d7b; }
     .recent .card.active, .recent .card:hover {
       transform: scale(1.05, 1.1);
       -webkit-transform: scale(1.05, 1.1);

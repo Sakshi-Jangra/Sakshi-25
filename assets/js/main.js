@@ -80,7 +80,3 @@ jQuery(document).ready(function(){
 function cross(x) {
   x.classList.toggle("change");
 }
-
-function imageClick(url) {
-  window.location = url;
-}
