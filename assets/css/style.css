@@ -202,7 +202,7 @@ h2 {
   .contact-pop img {
     border-radius: 15px 0 0 15px; }
   .contact-pop .content {
-    padding: 45px 20px 20px 40px;
+    padding: 10px 15px 0px 25px;
     height: 100%;
     background: #fff;
     border-radius: 0 15px 15px 0; }
@@ -230,7 +230,8 @@ h2 {
       border-radius: 40px;
       color: #fefefe;
       padding: 10px 0;
-      margin-top: 20px; }
+/*       margin-top: 20px;  */
+}
     @media (max-width: 991px) {
       .contact-pop .content {
         padding: 20px 20px 20px 25px; }
