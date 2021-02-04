@@ -152,9 +152,9 @@ h2 {
     background: -linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), black); }
   @media (max-width: 991px) {
     .fh5co-home-banner h2 {
-      font-size: 30px;
-      max-width: 90%;
-      padding-left: 20%;
+      font-size: medium;
+    max-width: 100%;
+    padding-left: 20%;
     }
     .fh5co-home-banner .center-text {
       top: 30%; } }
@@ -429,11 +429,11 @@ h2 {
   width: 100%; }
 
 .fh5co-recent-work {
-  background: #3c3c3c;
-  padding: 100px 0; }
+  background: #554b64;
+  padding-top: 22em; }
   @media (max-width: 767px) {
     .fh5co-recent-work {
-      padding-bottom: 0; } }
+      padding-bottom: 0; } } 
 
 .recent {
   margin-top: 200px; }
@@ -488,10 +488,10 @@ h2 {
       -moz-transform: scale(1.05, 1.1);
       box-shadow: 0px 20px 32px 0px rgba(0, 0, 0, 0.25); }
       .recent .card.active .card-img-overlay, .recent .card:hover .card-img-overlay {
-        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(51, 0, 20, 0.95));
-        background: -moz-linear-gradient(rgba(0, 0, 0, 0.3), rgba(18, 0, 61, 0.95));
-        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(78, 0, 31, 0.95));
-        background: -ms-linear-gradient(rgba(0, 0, 0, 0.3), rgba(17, 0, 71, 0.95)); }
+        background: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgb(0, 0, 0));
+        background: -moz-linear-gradient(rgba(0, 0, 0, 0.3), rgb(0, 0, 0));
+        background: linear-gradient(rgba(0, 0, 0, 0.3), rgb(0, 0, 0));
+        background: -ms-linear-gradient(rgba(0, 0, 0, 0.3), rgb(0, 0, 0)); }
       .recent .card.active p, .recent .card:hover p {
         color: #e587ac; }
   .recent .card-img-overlay {
@@ -618,7 +618,7 @@ h2 {
     text-align: center;
     width: fit-content;
     color: #fff;
-    margin: 7% auto; }
+    margin: 4% auto; }
   .fh5co-about-me .card-img {
     min-height: 730px; 
   }
@@ -732,7 +732,7 @@ h2 {
     padding: 5px 0;
     border-radius: 40px; }
     .twit-box a:hover, .twit-box a:visited {
-      background-color: #0286c2; }
+      background-color: #ffffff; }
   .twit-box::before {
     content: "";
     position: absolute;
