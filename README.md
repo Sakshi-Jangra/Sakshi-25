@@ -1,28 +1,18 @@
-# Welcome Aboard!🤩👋
-<p align="center">
-  <img src="https://github.com/Sakshi-25/Sakshi-25/blob/master/image2.png" width="60%">
- </p>
- 
-## ✨ I'm a Junior @IGDTUW. A Web Developer
+![browser_web_internet_website (1)](https://user-images.githubusercontent.com/49511150/131308003-997437c3-587d-46a1-af93-157fb46bf5ab.png)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://sakshi-25.github.io/Sakshi-25/) &nbsp;&nbsp; ![My profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Sakshi-25) &nbsp;&nbsp; ![Twitter URL](https://img.shields.io/twitter/follow/Sakshi2517?label=Twitter&style=social) &nbsp;&nbsp; [<img width="22px" src="https://user-images.githubusercontent.com/49511150/131314251-3b725e13-fde1-42bb-833b-9d4e7fe03ce3.png" />][linkedin] &nbsp;&nbsp; [<img width="22px" src="https://wrytin.com/static/img/logo/512.png"/>][wrytin] &nbsp;&nbsp; <a href="https://dev.to/sakshi25"><img src="https://user-images.githubusercontent.com/49511150/131312777-0018a0b8-6d30-4c52-aad0-de2d7bcb6c29.png" alt="SAKSHI's DEV Profile" height="22" width="22"></a><br />
+
+## ✨ Hey! I'm Sakshi, Senior @IGDTUW. A Tech Enthusiast
 - 🌱 I’m currently learning DS & Algorithms in C++.
-- 🔐 I’m currently working on Cyber Security Projects & <a href="https://github.com/dscigdtuw/GrowGreen">GrowGreen</a> 🌐
-- 🤔 I’m looking for help with latest Web Technologies. Tech is so fast pacing!!😵🤪
-- 👩‍💻 Goals: Learn new skills in Web Dev.
+- 🔐 I’m currently working on Cyber Security Projects & <a href="https://github.com/dscigdtuw/GrowGreen">GrowGreen</a>
+- 🤔 I’m looking for help with latest Web Technologies. Tech is so fast pacing!
 - 🎨 Hobbies: I love to Dance. Video Editing and Poster making.
 
-## Position of Responsibilities:<img src="https://media.giphy.com/media/USVqiZKAfTqTlAweo4/source.gif" width="60">
+## Position of Responsibilities:
 - Mentor<a href="https://github.com/UAceIt-Winter-of-Mentorship/GrowGreen"> at UAceIt</a>
-- DSC Project Coordinator for CyberSecurity
-- Core at GirlScript Unnao
+- GDSC Project Coordinator for CyberSecurity (2020)
+- Core at GirlScript Unnao(2020)
 - Core at Media, Taarangana2021
 
-### Connect with me:<img src="https://media.giphy.com/media/3o72EUVzqzm8V1P9qU/giphy.gif" width="30">
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://wrytin.com/static/img/logo/512.png" />][wrytin]
-<a href="https://dev.to/sakshi25">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="SAKSHI's DEV Profile" height="30" width="30">
-</a><br />
 ### Languages and Tools:
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /> 
 ---
